@@ -1,5 +1,5 @@
 
-//V 1.0 Done Launce
+//V 1.1 Done Launce
 
 var pangkat = (x,y) =>{
     if(y ==1){
@@ -13,6 +13,5 @@ var pangkat = (x,y) =>{
 console.log(2,3)
 
 /* 
- 
-dua nih
+kedua nih
 */
